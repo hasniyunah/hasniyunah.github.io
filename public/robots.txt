@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hasniyunah.github.io/sitemap.xml
